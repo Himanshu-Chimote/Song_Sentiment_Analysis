@@ -1,7 +1,5 @@
 # Sentiment Analysis of Song Lyrics
 
-![Sentiment Analysis of Song Lyrics](insert_image_link_here)
-
 ## Overview
 This project focuses on sentiment analysis of song lyrics using the VADER sentiment intensity analyzer. It includes data loading, sentiment analysis of lyrics, model evaluation, and sentiment prediction for new lyrics.
 
